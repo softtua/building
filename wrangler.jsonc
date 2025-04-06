@@ -1,0 +1,5 @@
+{
+  "name": "media-proxy",
+  "compatibility_date": "2025-04-06",
+  "main": "src/index.js"
+}
